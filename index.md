@@ -64,12 +64,12 @@ I like to play video games, but don't have as much time anymore. One of my favor
 Thanks for visiting my page!
 
 TODO:
--[x] Headings
--[x] Styling text
--[x] Quoting text
--[x] Quoting code
--[x] External Links
--[x] Section links
--[x] Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
--[x] Ordered and Unordered Lists
--[x] Task lists
+- [x] Headings
+- [x] Styling text
+- [x] Quoting text
+- [x] Quoting code
+- [x] External Links
+- [x] Section links
+- [x] Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
+- [x] Ordered and Unordered Lists
+- [x] Task lists
