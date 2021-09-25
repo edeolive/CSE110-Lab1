@@ -11,14 +11,14 @@ int main() {
 Hi, I'm Enzo, a 3rd year student at UCSD pursuing a B.S. in Computer Science with a minor in Mathematics. This page is an introduction about me.
 
 Sections:
-1. Overview
-2. About Me as a CS Student
-3. About Me Personally
-    * Sports
-	* Books
-	* Music
-	* Games
-4. Closing
+1. [Overview](https://github.com/edeolive/CSE110-Lab1/blob/main/index.md#overview)
+2. [About Me as a CS Student](https://github.com/edeolive/CSE110-Lab1/blob/main/index.md#about-me-as-a-cs-student)
+3. [About Me Personally](https://github.com/edeolive/CSE110-Lab1/blob/main/index.md#about-me-personally)
+	* [Sports](https://github.com/edeolive/CSE110-Lab1/blob/main/index.md#sports)
+	* [Books](https://github.com/edeolive/CSE110-Lab1/blob/main/index.md#books)
+	* [Music](https://github.com/edeolive/CSE110-Lab1/blob/main/index.md#music)
+	* [Games](https://github.com/edeolive/CSE110-Lab1/blob/main/index.md#games)
+4. [Closing](https://github.com/edeolive/CSE110-Lab1/blob/main/index.md#closing)
 
 ## About Me as a CS Student
 
@@ -62,3 +62,14 @@ I like to play video games, but don't have as much time anymore. One of my favor
 
 ## Closing
 Thanks for visiting my page!
+
+TODO:
+-[x] Headings
+-[x] Styling text
+-[x] Quoting text
+-[x] Quoting code
+-[x] External Links
+-[x] Section links
+-[x] Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
+-[x] Ordered and Unordered Lists
+-[x] Task lists
