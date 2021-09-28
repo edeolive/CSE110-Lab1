@@ -11,14 +11,14 @@ int main() {
 Hi, I'm Enzo, a 3rd year student at UCSD pursuing a B.S. in Computer Science with a minor in Mathematics. This page is an introduction about me.
 
 Sections:
-1. [Overview](https://github.com/edeolive/CSE110-Lab1/blob/main/index.md#overview)
-2. [About Me as a CS Student](https://github.com/edeolive/CSE110-Lab1/blob/main/index.md#about-me-as-a-cs-student)
-3. [About Me Personally](https://github.com/edeolive/CSE110-Lab1/blob/main/index.md#about-me-personally)
-	* [Sports](https://github.com/edeolive/CSE110-Lab1/blob/main/index.md#sports)
-	* [Books](https://github.com/edeolive/CSE110-Lab1/blob/main/index.md#books)
-	* [Music](https://github.com/edeolive/CSE110-Lab1/blob/main/index.md#music)
-	* [Games](https://github.com/edeolive/CSE110-Lab1/blob/main/index.md#games)
-4. [Closing](https://github.com/edeolive/CSE110-Lab1/blob/main/index.md#closing)
+1. [Overview](https://edeolive.github.io/CSE110-Lab1/#overview)
+2. [About Me as a CS Student](https://edeolive.github.io/CSE110-Lab1/#about-me-as-a-cs-student)
+3. [About Me Personally](https://edeolive.github.io/CSE110-Lab1/#about-me-personally)
+	* [Sports](https://edeolive.github.io/CSE110-Lab1/#sports)
+	* [Books](https://edeolive.github.io/CSE110-Lab1/#books)
+	* [Music](https://edeolive.github.io/CSE110-Lab1/#music)
+	* [Games](https://edeolive.github.io/CSE110-Lab1/#games)
+4. [Closing](https://edeolive.github.io/CSE110-Lab1/#closing)
 
 ## About Me as a CS Student
 
